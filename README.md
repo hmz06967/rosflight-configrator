@@ -1,4 +1,7 @@
 # rosflight-configrator
+
+[@Betaflight](https://github.com/betaflight/betaflight-configurator/releases) üzerinden dil desteği eklenerek yeniden yayınlandı, rosflight yazılımını desteklemektedir
+
 Normally rosflight is software designed to be able to use with autonomous driving of your device. But if you want to control it with rc control, this configurator will be useful for you.
 
 ## Mavlink Supported 
